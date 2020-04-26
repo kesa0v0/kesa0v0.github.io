@@ -1,7 +1,8 @@
 ---
 title:  "Youtube-dl GUI"
 tags:
-    - 프로그래밍
+    - Programming
+    - Gui
 categories:
     - Programming
 ---
