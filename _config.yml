@@ -94,7 +94,7 @@ analytics:
 # Site Author
 author:
   name             : "kesa0v0"
-  avatar           : "/assets/images/" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "프로그래밍 늒네"
   location         : "어딘가"
   email            : "kesa0v0@gmail.com"
