@@ -98,6 +98,7 @@ author:
   bio              : "프로그래밍 늒네"
   location         : "어딘가"
   email            : "kesa0v0@gmail.com"
+  github           : "kesa0v0"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
