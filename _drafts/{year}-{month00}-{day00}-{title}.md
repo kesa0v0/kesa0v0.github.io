@@ -4,7 +4,7 @@ tags: # 태그 사용
     - tag2
 
 categories: #카테고리
-  - category a
+  - category a  #only english
 
 author_profile: true / false #작성자 프로필 출력여부
 read_time: false # read_time을 출력할지 여부 1min read 같은것!
