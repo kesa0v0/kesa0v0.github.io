@@ -6,10 +6,9 @@ categories:
     - 프로그래밍
 ---
 
-## 유튜브 다운로더를 만들어 보았다.
+## 유튜브 다운로더를 만들어 보았다
 
 [Github](https://github.com/kesa0v0/youtube_downloader_gui)
-
 
 다운로드 하는 법:
 
