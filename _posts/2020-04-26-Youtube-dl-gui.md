@@ -3,7 +3,7 @@ title:  "Youtube-dl GUI"
 tags:
     - 프로그래밍
 categories:
-    - 프로그래밍
+    - Programming
 ---
 
 ## 유튜브 다운로더를 만들어 보았다
