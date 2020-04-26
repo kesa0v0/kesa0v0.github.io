@@ -8,6 +8,8 @@ categories:
 
 ## 유튜브 다운로더를 만들어 보았다
 
+내가 처음으로 PyQt5 쓴 프로그램
+
 [Github](https://github.com/kesa0v0/youtube_downloader_gui)
 
 다운로드 하는 법:
