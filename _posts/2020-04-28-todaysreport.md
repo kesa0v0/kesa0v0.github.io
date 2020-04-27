@@ -1,0 +1,19 @@
+---
+layout: post
+tags: 
+  - Programming
+categories: 
+  - Programming
+#date: 2019-06-25 13:14:15
+#description:
+title: '오늘 한 것'
+---
+사실 어제 한거다
+
+호이에디터의 로드맵을 만들었다.
+
+호이 코드의 트리거 부분을 만들고 있다.
+
+PyQt에 트리형 위젯이 있어서 그걸 이용해 UI를 만들것이다.
+
+코드에는 딕셔너리와 리스트를 조합하면 되지 않을까 싶다.
