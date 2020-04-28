@@ -13,7 +13,7 @@ title: '오늘 한 것 (2)'
 ----
 오늘은 어제부터 만들기 시작한 [호이 에디터](https://github.com/kesa0v0/HOIEditor/tree/master)를 계속 만들었다.
 
-Triggers(or Conditions)의 UI와 내부 작동 코드를 만들었다.
+Triggers(또는 Conditions)의 UI와 내부 작동 코드를 만들었다.
 
 **[Trigger 실행파일](https://drive.google.com/open?id=1Uu1A8QgqtGsr2sE-Y6jGsfz9isaXlly9)**
 
