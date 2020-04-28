@@ -19,7 +19,7 @@ Triggers(또는 Conditions)의 UI와 내부 작동 코드를 만들었다.
 
 ----
 
-![실행화면 - 메인화면](https://github.com/kesa0v0/kesa0v0.github.io/blob/master/assets/images/2020-04-28-trigger-main.PNG)
+![실행화면 - 메인화면](assets/images/2020-04-28-trigger-edit.PNG)
 
 type의 종류로는 value와 trigger가 있다.
 
@@ -31,7 +31,7 @@ Add Trigger나 Edit Trigger를 선택하면 밑과 같은 창을 띄운다.
 
 ---
 
-![실행화면 - 트리거 에디터](https://github.com/kesa0v0/kesa0v0.github.io/blob/master/assets/images/2020-04-28-trigger-edit.PNG)
+![실행화면 - 트리거 에디터](assets/image/2020-04-28-trigger-edit.PNG)
 
 type을 선택할 수 있다.
 
