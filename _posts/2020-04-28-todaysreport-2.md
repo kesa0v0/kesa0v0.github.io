@@ -23,7 +23,7 @@ Triggers(or Conditions)의 UI와 내부 작동 코드를 만들었다.
 
 type의 종류로는 value와 trigger가 있다.
 
-trigger들은 data/conditions.txt에 저장되어 있다.
+trigger들은 ./datas/conditions.txt에 저장되어 있다.
 
 value 밑에는 trigger나 value를 추가할 수 없다.
 
@@ -35,6 +35,6 @@ Add Trigger나 Edit Trigger를 선택하면 밑과 같은 창을 띄운다.
 
 type을 선택할 수 있다.
 
-trigger일때는 ComboBox를 이용해 하나를 선택할 수 있다.
+Trigger일때는 ComboBox를 이용해 하나를 선택할 수 있다.
 
 Value일때는 값을 적을 수 있다.
