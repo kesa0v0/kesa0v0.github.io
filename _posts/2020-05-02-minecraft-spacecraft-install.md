@@ -16,9 +16,9 @@ comments: true
 
 [트위치 없는사람들](https://drive.google.com/file/d/16pgueK4CurynNJx8S4Ge_s-Y3QUu_M5_/view?usp=sharing)
 
-## 모드팩 설치
+## 모드팩 설치 방법
 
-[모드팩 설치](https://kesa0v0.github.io/minecraft/minecraft-modpack-install-guide/)
+[모드팩 설치 방법](https://kesa0v0.github.io/minecraft/minecraft-modpack-install-guide/)
 
 ## 서버 주소
 
