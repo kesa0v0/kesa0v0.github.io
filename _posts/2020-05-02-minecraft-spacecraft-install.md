@@ -1,10 +1,10 @@
 ---
 tags:
-- Minecraft
-- Gaming
+  - Minecraft
+  - Gaming
 categories:
-- Minecraft
-date: 2020-05-02 17:00:00
+  - Minecraft
+date: 2020-05-02 17:00:00
 description: '그러하다'
 title: '마인크래프트 Spacecraft 서버'
 comments: true
