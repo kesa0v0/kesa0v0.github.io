@@ -5,7 +5,7 @@ tags:
 categories: 
   - Minecraft
 date: 2020-05-02 16:12:00
-#description:
+description: 'RTFM'
 title: '마인크래프트 모드팩 인스톨 가이드'
 comments: true
 ---
