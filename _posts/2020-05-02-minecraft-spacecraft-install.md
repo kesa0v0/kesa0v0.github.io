@@ -18,7 +18,7 @@ comments: true
 
 ## 모드팩 설치
 
-[모드팩 설치법](/_posts/2020-05-02-minecraft-modpack-install-guide.md)
+[모드팩 설치](./2020-05-02-minecraft-modpack-install-guide.md)
 
 ## 서버 주소
 
